@@ -7,7 +7,7 @@ using [Rails Templates](http://guides.rubyonrails.org/rails_application_template
 
 ## Minimal
 
-Get a minimal rails app ready to be deployed on Heroku with Bootstrap, Simple form and debugging gems.
+Get a minimal rails app ready to be deployed on Heroku with Simple form and debugging gems.
 
 ```bash
 rails new \
